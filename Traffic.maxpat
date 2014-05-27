@@ -3946,7 +3946,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1014.736328, 207.110596, 413.0, 36.0 ],
+					"patching_rect" : [ 1015.147461, 178.829987, 413.0, 36.0 ],
 					"text" : ";\rmax launch_browser http://www.taurinbarrera.com/projects/traffic"
 				}
 
@@ -11267,7 +11267,7 @@
 					"destination" : [ "obj-372", 0 ],
 					"disabled" : 0,
 					"hidden" : 1,
-					"midpoints" : [ 1024.647461, 179.399979, 1024.236328, 179.399979 ],
+					"midpoints" : [ 1024.647461, 179.399979, 1024.647461, 179.399979 ],
 					"source" : [ "obj-374", 0 ]
 				}
 
